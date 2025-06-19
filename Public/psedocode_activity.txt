@@ -1,0 +1,20 @@
+start
+
+add what time you want alarm to go off 
+- setting time
+- what day and time? Am or Pm
+- Make sure it matches the correct time user wants to wake up
+when done
+  alarm will go off 
+  ask user if they want to snooze or stop alarm
+  if user selects snooze,snooze for 5 minutes
+    when 5 minutes are up alarm goes off
+    ask user again if they want to snooze or stop
+
+(cycle)
+     if the user selects stop exit (ends)
+     if user slects snooze wait for alarm to go off 
+
+End
+
+
