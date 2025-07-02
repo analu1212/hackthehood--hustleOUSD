@@ -1,7 +1,7 @@
 lab2.py
 # Lab 2 python 
 ## step 1
-Ana = "Ana Cuenca"
+"name"= "Ana"
 
 ## step 2
 nickname = 'Anny'
@@ -13,7 +13,7 @@ age = 15
 used_python = "false"
 
 ## step 5
-hobbies = ["dance,reading, cheerleading"]
+hobbies = ["dance", "reading", "cheerleading"]
 
 ## step 6
 favorite_things = {"move": "frozen", 'dance': 'hip pop', 'animal': 'bunnies'}
