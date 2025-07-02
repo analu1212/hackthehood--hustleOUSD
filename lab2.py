@@ -1,7 +1,7 @@
 lab2.py
 # Lab 2 python 
 ## step 1
-"name"= "Ana"
+"name" = "Ana"
 
 ## step 2
 nickname = 'Anny'
